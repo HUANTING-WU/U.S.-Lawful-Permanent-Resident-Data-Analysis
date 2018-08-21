@@ -1,6 +1,5 @@
 # U.S.-Lawful-Permanent-Resident-Data-Analysis
 
-# Lawful Permanent Resident of the U.S. 2016
 * **Historical data of various immigration statistics yearbooks can be retrieved [here](https://www.dhs.gov/immigration-statistics/yearbook)**
 * **2016 Yearbook of Immigration Statistics can be retrieve [here](https://www.dhs.gov/immigration-statistics/yearbook/2016#*)**
 
