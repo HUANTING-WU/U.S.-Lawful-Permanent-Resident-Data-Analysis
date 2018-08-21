@@ -9,4 +9,4 @@ The basic motivation for this assignment is try to create a nice visualization p
 * Categorization by residence region before immigration.
 * Relation between personal income and propensity to immigration in different regions.
 
-Note that this program is by no means entirely comprehensive. The demonstrated aspects below are merely selected based on the author's sole judgments. In fact, the author will grudgingly admit that statistics published by the Pew Research Center on unauthorized immigration in the U.S. are hesitantly excluded, in order to avoid controversial grading
+**Note that this program is by no means entirely comprehensive. The demonstrated aspects below are merely selected based on the author's sole judgments. In fact, the author will grudgingly admit that statistics published by the Pew Research Center on unauthorized immigration in the U.S. are hesitantly excluded, in order to avoid controversial grading**
